@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-4E8EE8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-4A00E0?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
@@ -95,14 +96,9 @@
   <br/><br/><br/>
   <b>Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,notion&perline=6" />
-</p>
-
----
-
-## Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timomak&size_weight=0.2&count_weight=0.8&hide=html&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05138&text_color=FFFFFF" />
+  <br/>
+  <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ---

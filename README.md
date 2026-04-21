@@ -40,8 +40,10 @@
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Combine-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
   <br/><br/><br/>
-  <b>Backend</b><br/>
+  <b>Backend & DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis&perline=5" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,linux,nginx&perline=7" />
   <br/><br/><br/>
   <b>AI / LLMs</b><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" />
@@ -68,9 +70,6 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <br/><br/><br/>
-  <b>Cloud & DevOps</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx&perline=5" />
   <br/><br/><br/>
   <b>Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,notion&perline=6" />

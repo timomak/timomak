@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Timofey%20Makhlay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%40%20Thirdface&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:00FF94&height=200&section=header&text=Timofey%20Makhlay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%40%20Thirdface&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
   <a href="https://github.com/timomak">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F05138&center=true&vCenter=true&width=600&lines=iOS+Engineer+%7C+Full-Stack+%7C+AI+tinkerer;Building+conversational+AI+at+Thirdface;Swift+%E2%80%A2+TypeScript+%E2%80%A2+Python;Los+Angeles%2C+CA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=iOS+Engineer+%7C+Full-Stack+%7C+AI+tinkerer;Building+conversational+AI+at+Thirdface;Swift+%E2%80%A2+TypeScript+%E2%80%A2+Python;Los+Angeles%2C+CA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -95,5 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:00FF94&height=80&section=footer" />
+</p>
+0&section=footer" />
 </p>

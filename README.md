@@ -17,27 +17,9 @@
 
 ---
 
-## About Me
-
-```swift
-struct Timofey {
-    let role = "Founding Engineer @ Thirdface"
-    let building = "AI assistants that actually help people"
-    let stack = ["Swift", "TypeScript", "Python"]
-    let location = "Los Angeles, CA"
-}
-```
-
-- Building conversational AI products at **Thirdface**
-- iOS development, infrastructure, and whatever needs doing at a startup
-- Tinkering with LLMs, agents, and developer tools
-
----
-
 ## Connect with Me
 
 <p align="center">
-  <a href="https://sosh.me/timo"><img src="https://img.shields.io/badge/sosh.me%2Ftimo-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="https://x.com/tmakhlay"><img src="https://img.shields.io/badge/@tmakhlay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:timofey@thirdface.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
@@ -50,10 +32,6 @@ struct Timofey {
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=timomak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=F05138&icon_color=6C63FF&text_color=FFFFFF" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=timomak&theme=tokyonight&hide_border=true&background=0D1117&ring=F05138&fire=F05138&currStreakLabel=6C63FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=timomak&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -88,10 +66,29 @@ struct Timofey {
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis&perline=5" />
   <br/><br/><br/>
   <b>AI / LLMs</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" />
+  <br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4E8EE8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-00C49A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FFCD00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" />
   <br/><br/><br/>
   <b>Cloud & DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx&perline=5" />

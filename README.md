@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A00C9FF%2C100%3A00FF94&amp;height=200&amp;section=header&amp;reversal=true&amp;text=Timofey%20Makhlay&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=55&amp;desc=Founding%20Engineer%20%40%20Thirdface&amp;descSize=18&amp;descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A00C9FF%2C100%3A00FF94&amp;height=200&amp;section=header&amp;text=Timofey%20Makhlay&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Founding%20Engineer%20%40%20Thirdface&amp;descSize=18&amp;descAlignY=60" />
 </p>
 
 <p align="center">
@@ -75,14 +75,6 @@
   <a href="https://x.com/tmakhlay"><img src="https://img.shields.io/badge/@tmakhlay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:timofey@thirdface.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
-</p>
-
----
-
-## Pac-Man
-
-<p align="center">
-  <img alt="pacman contribution graph animation" src="https://raw.githubusercontent.com/timomak/timomak/output/pacman-contribution-graph.svg" />
 </p>
 
 ---

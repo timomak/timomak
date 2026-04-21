@@ -33,15 +33,12 @@
   <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=swift,ts,js,python,bash&perline=5" />
   <br/><br/><br/>
-  <b>iOS / Mobile</b><br/>
-  <img src="https://skillicons.dev/icons?i=swift,xcode&perline=2" />
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=swift,xcode,react,nextjs,tailwind,html,css&perline=7" />
   <br/>
   <img src="https://img.shields.io/badge/SwiftUI-0055FF?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Combine-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
-  <br/><br/><br/>
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
   <br/><br/><br/>
   <b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis&perline=5" />

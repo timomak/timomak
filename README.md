@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Combine-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
   <br/><br/><br/>
   <b>Backend & DevOps</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,bash&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,cpp,cs,bash&perline=8" />
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis&perline=5" />
   <br/>

@@ -2,22 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A00C9FF%2C100%3A00FF94&amp;height=200&amp;section=header&amp;text=Timofey%20Makhlay&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Founding%20Engineer%20%40%20Thirdface&amp;descSize=18&amp;descAlignY=60" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timomak/timomak/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timomak/timomak/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/timomak/timomak/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=timomak&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="profile views" />
   <a href="https://x.com/tmakhlay">
     <img src="https://img.shields.io/twitter/follow/tmakhlay?logo=x&style=for-the-badge&color=000000&labelColor=000000" alt="X follow" />
   </a>
 </p>
-
----
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timomak/timomak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timomak/timomak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/timomak/timomak/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 

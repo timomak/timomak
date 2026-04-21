@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ## Tech Stack
 
 <p align="center">
@@ -67,8 +65,6 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
----
-
 ## Connect with Me
 
 <p align="center">
@@ -76,8 +72,6 @@
   <a href="mailto:timofey@thirdface.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A00C9FF%2C100%3A00FF94&amp;height=80&amp;section=footer" />

@@ -15,8 +15,6 @@
   </a>
 </p>
 
-## Tech Stack
-
 <p align="center">
   <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=swift,react,nextjs,tailwind,html,css&perline=6" />
@@ -64,8 +62,6 @@
   <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
-
-## Connect with Me
 
 <p align="center">
   <a href="https://x.com/tmakhlay"><img src="https://img.shields.io/badge/@tmakhlay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>

@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/timomak">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=iOS+Engineer+%7C+Full-Stack+%7C+AI+tinkerer;Building+conversational+AI+at+Thirdface;Swift+%E2%80%A2+TypeScript+%E2%80%A2+Python;Los+Angeles%2C+CA" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=timomak&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="profile views" />
   <a href="https://x.com/tmakhlay">
     <img src="https://img.shields.io/twitter/follow/tmakhlay?logo=x&style=for-the-badge&color=000000&labelColor=000000" alt="X follow" />

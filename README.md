@@ -17,25 +17,6 @@
 
 ---
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://x.com/tmakhlay"><img src="https://img.shields.io/badge/@tmakhlay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:timofey@thirdface.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=timomak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=F05138&icon_color=6C63FF&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=timomak&theme=tokyonight&hide_border=true&background=0D1117&ring=F05138&fire=F05138&currStreakLabel=6C63FF" />
-</p>
-
----
-
 ## Contribution Graph
 
 <picture>
@@ -99,6 +80,16 @@
   <br/>
   <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://x.com/tmakhlay"><img src="https://img.shields.io/badge/@tmakhlay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:timofey@thirdface.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---

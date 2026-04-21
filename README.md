@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=swift,ts,js,python,bash&perline=5" />
   <br/><br/><br/>
   <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=swift,xcode,react,nextjs,tailwind,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=swift,react,nextjs,tailwind,html,css&perline=6" />
   <br/>
   <img src="https://img.shields.io/badge/SwiftUI-0055FF?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />

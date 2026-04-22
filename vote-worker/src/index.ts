@@ -42,7 +42,19 @@ export default {
         );
         await env.VOTES.put(`count:${id}`, String(current + 1));
       }
-      return Response.redirect(REDIRECT_TO, 302);
+      return Response.redirect(`${url.origin}/thanks?id=${encodeURIComponent(id)}`, 302);
+    }
+
+    if (url.pathname === "/thanks") {
+      const id = url.searchParams.get("id");
+      const c = CANDIDATES.find((c) => c.id === id);
+      if (!c) return new Response("unknown candidate", { status: 400 });
+      return new Response(renderThanks(c.label), {
+        headers: {
+          "content-type": "text/html; charset=utf-8",
+          "cache-control": "no-store",
+        },
+      });
     }
 
     if (url.pathname === "/chart.svg") {
@@ -107,6 +119,59 @@ function renderChart(
   <rect width="100%" height="100%" fill="#0d1117" rx="12"/>
   ${bars}
 </svg>`;
+}
+
+function renderThanks(label: string): string {
+  const ts = Date.now();
+  const safeLabel = escapeXml(label);
+  const shareText = encodeURIComponent(
+    `I voted for "${label}" to be @tmakhlay's next project 🗳️ https://github.com/timomak`
+  );
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Thanks for voting — ${safeLabel}</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh;
+    font-family: ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    background: radial-gradient(ellipse at top, #0f1820 0%, #0d1117 60%);
+    color: #e6edf3;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    padding: 48px 16px;
+  }
+  .card { max-width: 640px; width: 100%; text-align: center; }
+  h1 { font-size: 28px; line-height: 1.25; margin: 0 0 12px; font-weight: 700; }
+  .gradient {
+    background: linear-gradient(90deg, #00C9FF, #00FF94);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  p.sub { color: #8b949e; margin: 0 0 28px; font-size: 14px; }
+  img.chart { width: 100%; max-width: 578px; height: auto; border-radius: 12px; margin-bottom: 28px; display: block; margin-inline: auto; }
+  .actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  a.btn { display: inline-block; padding: 11px 20px; border-radius: 8px; font-weight: 600; text-decoration: none; font-size: 14px; transition: transform .08s ease; }
+  a.btn:active { transform: translateY(1px); }
+  a.primary { background: linear-gradient(90deg, #00C9FF, #00FF94); color: #0d1117; }
+  a.secondary { background: #21262d; color: #e6edf3; border: 1px solid #30363d; }
+  a.secondary:hover { background: #30363d; }
+</style>
+</head>
+<body>
+  <main class="card">
+    <h1>Thanks — you voted for<br><span class="gradient">${safeLabel}</span></h1>
+    <p class="sub">Your vote is counted. Live tally:</p>
+    <img class="chart" src="/chart.svg?v=${ts}" alt="current votes">
+    <div class="actions">
+      <a class="btn primary" href="https://github.com/timomak">← Back to profile</a>
+      <a class="btn secondary" href="https://x.com/intent/tweet?text=${shareText}" target="_blank" rel="noopener">Share on X</a>
+    </div>
+  </main>
+</body>
+</html>`;
 }
 
 function escapeXml(s: string): string {

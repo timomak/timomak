@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=timomak&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="profile views" />
-  <a href="https://x.com/tmakhlay">
-    <img src="https://img.shields.io/twitter/follow/tmakhlay?logo=x&style=for-the-badge&color=000000&labelColor=000000" alt="X follow" />
+  <a href="https://x.com/timostarr">
+    <img src="https://img.shields.io/twitter/follow/timostarr?logo=x&style=for-the-badge&color=000000&labelColor=000000" alt="X follow" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/tmakhlay"><img src="https://img.shields.io/badge/@tmakhlay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/timostarr"><img src="https://img.shields.io/badge/@timostarr-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:timofey@thirdface.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
 </p>

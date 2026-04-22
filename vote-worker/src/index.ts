@@ -106,7 +106,7 @@ function renderThanks(label: string): string {
   const ts = Date.now();
   const safeLabel = escapeXml(label);
   const shareText = encodeURIComponent(
-    `I voted for "${label}" to be @tmakhlay's next project 🗳️ https://github.com/timomak`
+    `I voted for "${label}" to be @timostarr's next project 🗳️ https://github.com/timomak`
   );
   return `<!doctype html>
 <html lang="en">

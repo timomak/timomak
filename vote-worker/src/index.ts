@@ -9,18 +9,6 @@ const CANDIDATES: { id: string; label: string }[] = [
   { id: "fitness-compete", label: "Competitive Fitness (HealthKit)" },
 ];
 
-const REDIRECT_TO = "https://github.com/timomak";
-const IP_SALT = "timomak-votes-v1";
-
-async function hashIp(ip: string): Promise<string> {
-  const data = new TextEncoder().encode(ip + ":" + IP_SALT);
-  const buf = await crypto.subtle.digest("SHA-256", data);
-  return [...new Uint8Array(buf)]
-    .map((b) => b.toString(16).padStart(2, "0"))
-    .join("")
-    .slice(0, 16);
-}
-
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     const url = new URL(req.url);
@@ -30,18 +18,11 @@ export default {
       if (!id || !CANDIDATES.find((c) => c.id === id)) {
         return new Response("unknown candidate", { status: 400 });
       }
-      const ip = req.headers.get("cf-connecting-ip") ?? "0.0.0.0";
-      const ipHash = await hashIp(ip);
-      const rlKey = `rl:${ipHash}:${id}`;
-      const already = await env.VOTES.get(rlKey);
-      if (!already) {
-        await env.VOTES.put(rlKey, "1", { expirationTtl: 86400 });
-        const current = parseInt(
-          (await env.VOTES.get(`count:${id}`)) ?? "0",
-          10
-        );
-        await env.VOTES.put(`count:${id}`, String(current + 1));
-      }
+      const current = parseInt(
+        (await env.VOTES.get(`count:${id}`)) ?? "0",
+        10
+      );
+      await env.VOTES.put(`count:${id}`, String(current + 1));
       return Response.redirect(`${url.origin}/thanks?id=${encodeURIComponent(id)}`, 302);
     }
 
@@ -163,7 +144,7 @@ function renderThanks(label: string): string {
 <body>
   <main class="card">
     <h1>Thanks — you voted for<br><span class="gradient">${safeLabel}</span></h1>
-    <p class="sub">Your vote is counted. Live tally:</p>
+    <p class="sub">Live tally below. Heads up: the chart on Tim's GitHub profile takes a few minutes to refresh.</p>
     <img class="chart" src="/chart.svg?v=${ts}" alt="current votes">
     <div class="actions">
       <a class="btn primary" href="https://github.com/timomak">← Back to profile</a>

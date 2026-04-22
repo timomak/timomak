@@ -1,0 +1,11 @@
+name = "timomak-votes"
+main = "src/index.ts"
+compatibility_date = "2026-04-22"
+
+routes = [
+  { pattern = "votes.patentlawyer.co", custom_domain = true }
+]
+
+[[kv_namespaces]]
+binding = "VOTES"
+id = "298ac6bdb21b414a97cf2a65db0656ee"

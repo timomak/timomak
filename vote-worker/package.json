@@ -1,0 +1,14 @@
+{
+  "name": "timomak-votes",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260422.1",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.84.1"
+  }
+}

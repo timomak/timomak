@@ -69,6 +69,19 @@
   <a href="https://thirdface.com"><img src="https://img.shields.io/badge/Thirdface-6C63FF?style=for-the-badge&logoColor=white" /></a>
 </p>
 
+<h2 align="center">🗳️ Vote on my next project</h2>
+
+<p align="center">
+  <img src="https://votes.patentlawyer.co/chart.svg" alt="current votes" />
+</p>
+
+<p align="center">
+  <a href="https://votes.patentlawyer.co/vote?id=patent-lawyer-agent"><img src="https://img.shields.io/badge/Vote-Patent%20Lawyer-6C63FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://votes.patentlawyer.co/vote?id=cc-account-manager"><img src="https://img.shields.io/badge/Vote-Multi%20Account%20CLI-D97757?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://votes.patentlawyer.co/vote?id=programming-video-gen"><img src="https://img.shields.io/badge/Vote-Video%20Gen-FF2D55?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://votes.patentlawyer.co/vote?id=fitness-compete"><img src="https://img.shields.io/badge/Vote-Fitness-00FF94?style=for-the-badge&logoColor=white" /></a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A00C9FF%2C100%3A00FF94&amp;height=80&amp;section=footer" />
 </p>
